@@ -1,7 +1,4 @@
-site_name: MkDocs Testing
-site_url: https://uw-amy-bordenave.github.io/mkdocs-test
-theme:
-    name: material
+site_name: mkdocs-test
 nav:
-    - index
-    - about
+    - Home: index.md
+    - About: about.md
